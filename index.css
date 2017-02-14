@@ -1,0 +1,52 @@
+.navi{
+  color: white;
+  background-color: rgb(25, 140, 160);
+
+}
+.navigationbar{
+  height:100px
+}
+.navigation{
+  float: left;
+    padding:25px;
+    padding-left: 90px;
+  }
+  .navigation a{
+    text-align: center;
+  }
+#grid1{
+  color: white;
+  background-color: rgb(17, 200, 201);
+}
+#grid2{
+color: white;
+background-color: rgb(17, 170, 201);
+}
+#grid3{
+color: white;
+background-color: rgb(17, 150, 201);
+}
+#grid4{
+color: white;
+background-color: rgb(17, 170, 200);
+}
+.about{
+  text-align: center;
+  color: red;
+  font-weight:bolder;
+  font-family: cursive;
+}
+.home{
+  width: 100%;
+  margin: -10px;
+}
+.grids{
+  height:300px;
+}
+.caption{
+  text-align: left;
+
+}
+#grid1,#grid2,#grid3,#grid4{
+  cursor: pointer;
+}
